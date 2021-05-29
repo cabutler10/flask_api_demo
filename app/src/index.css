@@ -1,0 +1,29 @@
+#root {
+  height: 100%;
+}
+
+html {
+  background: #f7f7f9;
+}
+
+.spinner {
+  height: 48px;
+  width: 48px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  background: transparent;
+  border-radius: 50%;
+  border: 2px solid #ccc6ff;
+  border-top-color: #27166f;
+  animation: spinner2 1500ms linear infinite;
+}
+
+@keyframes spinner2 {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+svg {
+  width: 100%;
+}

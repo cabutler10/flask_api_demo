@@ -1,0 +1,762 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders content component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="makeStyles-root-1"
+      >
+        <div
+          class="makeStyles-container-2"
+        >
+          <h1
+            class="zep-typo--display-5"
+            data-testid="headerID"
+          >
+            Interpreter: 119211321
+          </h1>
+          <button
+            class="zep-button zep-button--primary zep-button--small"
+          >
+            New Interpreter
+          </button>
+        </div>
+        <div
+          class="makeStyles-container-3"
+        >
+          <div
+            class="makeStyles-root-4 makeStyles-small-5"
+          >
+            <h2
+              class="makeStyles-title-7 zep-typo--display-5"
+            >
+              Bewertung
+            </h2>
+            <div
+              class="makeStyles-root-8"
+            >
+              <div
+                class="recharts-wrapper"
+                style="position: relative; cursor: default; width: 280px; height: 100px;"
+              >
+                <svg
+                  class="recharts-surface"
+                  height="100"
+                  version="1.1"
+                  viewBox="0 0 280 100"
+                  width="280"
+                >
+                  <defs>
+                    <clippath
+                      id="recharts1-clip"
+                    >
+                      <rect
+                        height="200"
+                        width="280"
+                        x="0"
+                        y="0"
+                      />
+                    </clippath>
+                  </defs>
+                  <g
+                    class="recharts-layer recharts-pie"
+                  >
+                    <g
+                      class="recharts-layer"
+                    >
+                      <g
+                        class="recharts-layer recharts-pie-sector"
+                      />
+                      <g
+                        class="recharts-layer recharts-pie-sector"
+                      />
+                      <g
+                        class="recharts-layer recharts-pie-sector"
+                      />
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div
+                class="makeStyles-needle-9 makeStyles-orange-11"
+              />
+            </div>
+          </div>
+          <div
+            class="makeStyles-root-4 makeStyles-small-5"
+          >
+            <h2
+              class="makeStyles-title-7 zep-typo--display-5"
+            >
+              prediction
+            </h2>
+            <div
+              class="makeStyles-root-8"
+            >
+              <div
+                class="recharts-wrapper"
+                style="position: relative; cursor: default; width: 280px; height: 100px;"
+              >
+                <svg
+                  class="recharts-surface"
+                  height="100"
+                  version="1.1"
+                  viewBox="0 0 280 100"
+                  width="280"
+                >
+                  <defs>
+                    <clippath
+                      id="recharts3-clip"
+                    >
+                      <rect
+                        height="200"
+                        width="280"
+                        x="0"
+                        y="0"
+                      />
+                    </clippath>
+                  </defs>
+                  <g
+                    class="recharts-layer recharts-pie"
+                  >
+                    <g
+                      class="recharts-layer"
+                    >
+                      <g
+                        class="recharts-layer recharts-pie-sector"
+                      />
+                      <g
+                        class="recharts-layer recharts-pie-sector"
+                      />
+                      <g
+                        class="recharts-layer recharts-pie-sector"
+                      />
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div
+                class="makeStyles-needle-9 makeStyles-green-12"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-root-4 makeStyles-large-6"
+        >
+          <h2
+            class="makeStyles-title-7 zep-typo--display-5"
+          >
+            Ergebnisse
+          </h2>
+          <div
+            class="makeStyles-table-13"
+          >
+            <table
+              class="zep-table"
+            >
+              <caption
+                class="zep-visually-hidden"
+              >
+                Oil Results Table
+              </caption>
+              <thead>
+                <tr
+                  class="zep-table__row zep-table__row--header"
+                >
+                  <th
+                    class="zep-table__cell zep-table__cell--header"
+                    scope="col"
+                  />
+                  <th
+                    class="zep-table__cell zep-table__cell--header"
+                    scope="col"
+                  >
+                    Messwert
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr
+                  class="zep-table__row zep-table__row--white"
+                >
+                  <th
+                    class="zep-table__cell makeStyles-cell-18"
+                    scope="row"
+                  >
+                    PQI
+                  </th>
+                  <td
+                    class="zep-table__cell makeStyles-tableCell-21"
+                  >
+                    34
+                    <svg
+                      aria-hidden="true"
+                      class="makeStyles-icon-15"
+                      data-testid="ZepIconArrowChevronDownIcon"
+                      focusable="false"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      width="24"
+                    >
+                      <path
+                        d="M12 14.74a.96.96 0 01-.59-.2l-.09-.08-4.14-4.14a.62.62 0 01.8-.95l.09.07L12 13.37l3.93-3.93a.63.63 0 01.8-.07l.09.07c.21.22.24.55.07.8l-.07.08-4.14 4.14a.96.96 0 01-.68.28z"
+                        fill="currentColor"
+                        fill-rule="evenodd"
+                        transform="scale(Infinity, Infinity)"
+                      />
+                    </svg>
+                  </td>
+                </tr>
+                <tr
+                  class="zep-table__row zep-table__row--gray"
+                >
+                  <th
+                    class="zep-table__cell makeStyles-cell-18"
+                    scope="row"
+                  >
+                    si
+                  </th>
+                  <td
+                    class="zep-table__cell makeStyles-tableCell-21"
+                  >
+                    6
+                  </td>
+                </tr>
+                <tr
+                  class="zep-table__row zep-table__row--white"
+                >
+                  <th
+                    class="zep-table__cell makeStyles-cell-18"
+                    scope="row"
+                  >
+                    ni
+                  </th>
+                  <td
+                    class="zep-table__cell makeStyles-tableCell-21"
+                  >
+                    0
+                    <p>
+                      -
+                    </p>
+                  </td>
+                </tr>
+                <tr
+                  class="zep-table__row zep-table__row--gray"
+                >
+                  <th
+                    class="zep-table__cell makeStyles-cell-18"
+                    scope="row"
+                  >
+                    ca
+                  </th>
+                  <td
+                    class="zep-table__cell makeStyles-tableCell-21"
+                  >
+                    3137
+                    <svg
+                      aria-hidden="true"
+                      class="makeStyles-icon-15"
+                      data-testid="ZepIconArrowChevronUpIcon"
+                      focusable="false"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      width="24"
+                    >
+                      <path
+                        d="M12 9.26c.21 0 .42.07.59.2l.09.08 4.14 4.14a.62.62 0 01-.8.95l-.09-.07L12 10.63l-3.93 3.93a.63.63 0 01-.8.07l-.09-.07a.63.63 0 01-.07-.8l.07-.08 4.14-4.14a.96.96 0 01.68-.28z"
+                        fill="currentColor"
+                        fill-rule="evenodd"
+                        transform="scale(Infinity, Infinity)"
+                      />
+                    </svg>
+                  </td>
+                </tr>
+                <tr
+                  class="zep-table__row zep-table__row--white"
+                >
+                  <th
+                    class="zep-table__cell makeStyles-cell-18"
+                    scope="row"
+                  >
+                    Nitration
+                  </th>
+                  <td
+                    class="zep-table__cell makeStyles-tableCell-21"
+                  >
+                    0
+                    <p>
+                      -
+                    </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p
+            class="makeStyles-text-19 zep-typo--body-default"
+          >
+            Andere wichtige Faktoren:  Befund, Bewertung der letzten Probe, Set
+          </p>
+        </div>
+        <div
+          class="makeStyles-root-4 makeStyles-large-6"
+        >
+          <h2
+            class="makeStyles-title-7 zep-typo--display-5"
+          >
+            Kommentar
+          </h2>
+          <ul
+            class="zep-list makeStyles-list-22"
+          >
+            <li
+              class="zep-list__item"
+            >
+              (2018-10-03) This is some user entered comment
+            </li>
+            <li
+              class="zep-list__item"
+            >
+              (2019-03-01) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </li>
+          </ul>
+          <div
+            class="makeStyles-container-23"
+          >
+            <div
+              class="makeStyles-flex-24"
+            >
+              <div
+                class="zep-input-container"
+              >
+                <input
+                  class="zep-input"
+                  id="inputComment"
+                  type="text"
+                  value=""
+                />
+                <label
+                  class="zep-input-container__label"
+                  for="inputComment"
+                >
+                  Kommentar
+                </label>
+              </div>
+            </div>
+            <button
+              class="zep-button makeStyles-button-25 zep-button--primary zep-button--small"
+            >
+              einreichen
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="makeStyles-root-1"
+    >
+      <div
+        class="makeStyles-container-2"
+      >
+        <h1
+          class="zep-typo--display-5"
+          data-testid="headerID"
+        >
+          Interpreter: 119211321
+        </h1>
+        <button
+          class="zep-button zep-button--primary zep-button--small"
+        >
+          New Interpreter
+        </button>
+      </div>
+      <div
+        class="makeStyles-container-3"
+      >
+        <div
+          class="makeStyles-root-4 makeStyles-small-5"
+        >
+          <h2
+            class="makeStyles-title-7 zep-typo--display-5"
+          >
+            Bewertung
+          </h2>
+          <div
+            class="makeStyles-root-8"
+          >
+            <div
+              class="recharts-wrapper"
+              style="position: relative; cursor: default; width: 280px; height: 100px;"
+            >
+              <svg
+                class="recharts-surface"
+                height="100"
+                version="1.1"
+                viewBox="0 0 280 100"
+                width="280"
+              >
+                <defs>
+                  <clippath
+                    id="recharts1-clip"
+                  >
+                    <rect
+                      height="200"
+                      width="280"
+                      x="0"
+                      y="0"
+                    />
+                  </clippath>
+                </defs>
+                <g
+                  class="recharts-layer recharts-pie"
+                >
+                  <g
+                    class="recharts-layer"
+                  >
+                    <g
+                      class="recharts-layer recharts-pie-sector"
+                    />
+                    <g
+                      class="recharts-layer recharts-pie-sector"
+                    />
+                    <g
+                      class="recharts-layer recharts-pie-sector"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div
+              class="makeStyles-needle-9 makeStyles-orange-11"
+            />
+          </div>
+        </div>
+        <div
+          class="makeStyles-root-4 makeStyles-small-5"
+        >
+          <h2
+            class="makeStyles-title-7 zep-typo--display-5"
+          >
+            prediction
+          </h2>
+          <div
+            class="makeStyles-root-8"
+          >
+            <div
+              class="recharts-wrapper"
+              style="position: relative; cursor: default; width: 280px; height: 100px;"
+            >
+              <svg
+                class="recharts-surface"
+                height="100"
+                version="1.1"
+                viewBox="0 0 280 100"
+                width="280"
+              >
+                <defs>
+                  <clippath
+                    id="recharts3-clip"
+                  >
+                    <rect
+                      height="200"
+                      width="280"
+                      x="0"
+                      y="0"
+                    />
+                  </clippath>
+                </defs>
+                <g
+                  class="recharts-layer recharts-pie"
+                >
+                  <g
+                    class="recharts-layer"
+                  >
+                    <g
+                      class="recharts-layer recharts-pie-sector"
+                    />
+                    <g
+                      class="recharts-layer recharts-pie-sector"
+                    />
+                    <g
+                      class="recharts-layer recharts-pie-sector"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <div
+              class="makeStyles-needle-9 makeStyles-green-12"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="makeStyles-root-4 makeStyles-large-6"
+      >
+        <h2
+          class="makeStyles-title-7 zep-typo--display-5"
+        >
+          Ergebnisse
+        </h2>
+        <div
+          class="makeStyles-table-13"
+        >
+          <table
+            class="zep-table"
+          >
+            <caption
+              class="zep-visually-hidden"
+            >
+              Oil Results Table
+            </caption>
+            <thead>
+              <tr
+                class="zep-table__row zep-table__row--header"
+              >
+                <th
+                  class="zep-table__cell zep-table__cell--header"
+                  scope="col"
+                />
+                <th
+                  class="zep-table__cell zep-table__cell--header"
+                  scope="col"
+                >
+                  Messwert
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr
+                class="zep-table__row zep-table__row--white"
+              >
+                <th
+                  class="zep-table__cell makeStyles-cell-18"
+                  scope="row"
+                >
+                  PQI
+                </th>
+                <td
+                  class="zep-table__cell makeStyles-tableCell-21"
+                >
+                  34
+                  <svg
+                    aria-hidden="true"
+                    class="makeStyles-icon-15"
+                    data-testid="ZepIconArrowChevronDownIcon"
+                    focusable="false"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    width="24"
+                  >
+                    <path
+                      d="M12 14.74a.96.96 0 01-.59-.2l-.09-.08-4.14-4.14a.62.62 0 01.8-.95l.09.07L12 13.37l3.93-3.93a.63.63 0 01.8-.07l.09.07c.21.22.24.55.07.8l-.07.08-4.14 4.14a.96.96 0 01-.68.28z"
+                      fill="currentColor"
+                      fill-rule="evenodd"
+                      transform="scale(Infinity, Infinity)"
+                    />
+                  </svg>
+                </td>
+              </tr>
+              <tr
+                class="zep-table__row zep-table__row--gray"
+              >
+                <th
+                  class="zep-table__cell makeStyles-cell-18"
+                  scope="row"
+                >
+                  si
+                </th>
+                <td
+                  class="zep-table__cell makeStyles-tableCell-21"
+                >
+                  6
+                </td>
+              </tr>
+              <tr
+                class="zep-table__row zep-table__row--white"
+              >
+                <th
+                  class="zep-table__cell makeStyles-cell-18"
+                  scope="row"
+                >
+                  ni
+                </th>
+                <td
+                  class="zep-table__cell makeStyles-tableCell-21"
+                >
+                  0
+                  <p>
+                    -
+                  </p>
+                </td>
+              </tr>
+              <tr
+                class="zep-table__row zep-table__row--gray"
+              >
+                <th
+                  class="zep-table__cell makeStyles-cell-18"
+                  scope="row"
+                >
+                  ca
+                </th>
+                <td
+                  class="zep-table__cell makeStyles-tableCell-21"
+                >
+                  3137
+                  <svg
+                    aria-hidden="true"
+                    class="makeStyles-icon-15"
+                    data-testid="ZepIconArrowChevronUpIcon"
+                    focusable="false"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    width="24"
+                  >
+                    <path
+                      d="M12 9.26c.21 0 .42.07.59.2l.09.08 4.14 4.14a.62.62 0 01-.8.95l-.09-.07L12 10.63l-3.93 3.93a.63.63 0 01-.8.07l-.09-.07a.63.63 0 01-.07-.8l.07-.08 4.14-4.14a.96.96 0 01.68-.28z"
+                      fill="currentColor"
+                      fill-rule="evenodd"
+                      transform="scale(Infinity, Infinity)"
+                    />
+                  </svg>
+                </td>
+              </tr>
+              <tr
+                class="zep-table__row zep-table__row--white"
+              >
+                <th
+                  class="zep-table__cell makeStyles-cell-18"
+                  scope="row"
+                >
+                  Nitration
+                </th>
+                <td
+                  class="zep-table__cell makeStyles-tableCell-21"
+                >
+                  0
+                  <p>
+                    -
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p
+          class="makeStyles-text-19 zep-typo--body-default"
+        >
+          Andere wichtige Faktoren:  Befund, Bewertung der letzten Probe, Set
+        </p>
+      </div>
+      <div
+        class="makeStyles-root-4 makeStyles-large-6"
+      >
+        <h2
+          class="makeStyles-title-7 zep-typo--display-5"
+        >
+          Kommentar
+        </h2>
+        <ul
+          class="zep-list makeStyles-list-22"
+        >
+          <li
+            class="zep-list__item"
+          >
+            (2018-10-03) This is some user entered comment
+          </li>
+          <li
+            class="zep-list__item"
+          >
+            (2019-03-01) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </li>
+        </ul>
+        <div
+          class="makeStyles-container-23"
+        >
+          <div
+            class="makeStyles-flex-24"
+          >
+            <div
+              class="zep-input-container"
+            >
+              <input
+                class="zep-input"
+                id="inputComment"
+                type="text"
+                value=""
+              />
+              <label
+                class="zep-input-container__label"
+                for="inputComment"
+              >
+                Kommentar
+              </label>
+            </div>
+          </div>
+          <button
+            class="zep-button makeStyles-button-25 zep-button--primary zep-button--small"
+          >
+            einreichen
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
